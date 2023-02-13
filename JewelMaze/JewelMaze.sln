@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JewelMaze", "JewelMaze\JewelMaze.vcxproj", "{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Debug|x64.ActiveCfg = Debug|x64
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Debug|x64.Build.0 = Debug|x64
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Debug|x86.Build.0 = Debug|Win32
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Release|x64.ActiveCfg = Release|x64
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Release|x64.Build.0 = Release|x64
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Release|x86.ActiveCfg = Release|Win32
+		{0FD2DE3A-0FD6-4B26-9F6A-187ED5D40F89}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86FE4F6-9C6A-43DD-8ACE-1E098C8DBFB7}
+	EndGlobalSection
+EndGlobal

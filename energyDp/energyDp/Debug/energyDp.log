@@ -1,0 +1,3 @@
+﻿  energyDp.cpp
+d:\2nd time codes\energydp\energydp\energydp.cpp(9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  energyDp.vcxproj -> D:\2nd Time Codes\energyDp\Debug\energyDp.exe

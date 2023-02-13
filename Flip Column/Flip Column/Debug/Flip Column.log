@@ -1,0 +1,4 @@
+﻿  Flip Column.cpp
+d:\2nd time codes\flip column\flip column\flip column.cpp(5): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  d:\2nd time codes\flip column\flip column\flip column.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Flip Column.vcxproj -> D:\2nd Time Codes\Flip Column\Debug\Flip Column.exe
